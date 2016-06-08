@@ -3,7 +3,6 @@
 #Powerball in Python
 #This is a simple python script that simulates the powerball numbers.
 #The player inputs their numbers and the selected amount of times the simulation should run.
-#Written in VIM
 
 import random
 
